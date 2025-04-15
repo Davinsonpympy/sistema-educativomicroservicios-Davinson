@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "fechaRegistro": "2025-04-10",
+  "usuario": {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@correo.com"
+ },
+  "asignatura": {
+    "id": 1,
+    "nombre": "Matemáticas I",
+    "codigo": "MAT101"
+
+}
+
+}

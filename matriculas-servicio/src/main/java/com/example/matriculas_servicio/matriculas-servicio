@@ -1,0 +1,6 @@
+http://localhost:8081/api/usuarios
+
+{
+  "usuarioId": 1,
+  "asignaturaId": 1
+}
